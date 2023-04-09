@@ -10,7 +10,7 @@ print('Бот запущен!')
 
 logging.basicConfig(level=logging.INFO)
 
-chatbot = Chatbot(api_key="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")
+chatbot = Chatbot(api_key="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")
 TOKEN = token ='5747127396:AAEXYrvUMht9LJqUzxoQA-Xg4Tv8wO98tRI'
 
 router = Router()
